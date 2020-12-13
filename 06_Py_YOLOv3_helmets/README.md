@@ -1,4 +1,4 @@
-#YOLO Object detection and couple thoughts on safety issue
+# YOLO Object detection and couple thoughts on safety issue
 
 ## What is it?
 
@@ -22,4 +22,4 @@ The base code of YOLOv3 model comes from [YunYang github](https://github.com/Yun
 
 ## Result
 
-Project description and results can be found [here](./Project_JS.html).
+Project description and results can be found [here](http://j-smola.github.io/repository/Project_JS.html).
