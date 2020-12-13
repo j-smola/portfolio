@@ -1,7 +1,7 @@
 # Prognoza odejścia pracownika z pracy
 
 ## Tools
-Python
+Python/jupyter notebook
 
 ## Dane
 [Zbiór HR](https://www.kaggle.com/jacksonchou/hr-data-for-analytics)
@@ -11,4 +11,4 @@ Klasyfikacja. Zadaniem jest przygotowanie modelu prognozującgo odejście z prac
 
 **under construction - coming soon**
 
-[Projekt](https://j-smola.github.io/portfolio/HR_analysis_who left_JS.html)
+[Projekt](https://j-smola.github.io/portfolio/HR_analysis_who_left_JS.html)
