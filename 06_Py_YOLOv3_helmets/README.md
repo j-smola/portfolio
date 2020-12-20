@@ -18,7 +18,7 @@ Models have been built assisted by [Tensorflow 2 Object Detection API](https://g
 
 The base code of SSD model derives from a collection of detection models pre-trained on the COCO 2017 dataset that may be found in [TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md). The backbone (the feature extractor) is 152-layer ResNets (ResNet 152 v1 FPN denoted as RetinaNet152) trained from the Common Objects in Context (COCO) image dataset. 
 
-The base code of YOLOv3 model comes from [YunYang github](https://github.com/YunYang1994/TensorFlow2.0-Examples/tree/master/4-Object_Detection/YOLOV3) with [original YOLOv3 weights](https://pjreddie.com/media/files/yolov3.weights) coming from training on The PASCAL VOC dataset. The backbone (the feature extractor) is Darknet53
+The base code of YOLOv3 model comes from [YunYang github](https://github.com/YunYang1994/TensorFlow2.0-Examples/tree/master/4-Object_Detection/YOLOV3) with [original YOLOv3 weights](https://pjreddie.com/media/files/yolov3.weights) coming from training on the COCO 2017 dataset. The backbone (the feature extractor) is Darknet53
 
 ## Result
 
